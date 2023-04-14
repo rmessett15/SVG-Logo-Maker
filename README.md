@@ -35,7 +35,7 @@ Logo Generation
 
 ![Screenshot2-week-10-challenge](https://user-images.githubusercontent.com/120127903/232142612-728f43cb-174a-4370-9847-e3ebb10ee23b.png)
 
-![Screenshot3-week-10-challenge](https://user-images.githubusercontent.com/120127903/232142645-b5a9d57b-99b7-4aa3-ae22-1296f46bb55b.png)
+![Screenshot3-week-10-challenge](https://user-images.githubusercontent.com/120127903/232144018-62741d39-3e09-492c-be82-125e38f91521.png)
 
 Examples of Generated Logos
 
