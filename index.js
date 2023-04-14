@@ -86,3 +86,7 @@ promptUser();
 // Make SVG file look nicer with line breaks
 // Finish README (screenshots/video submission)
 // Video submission and add link to README (and submit as well)
+
+// Clean up and comment all code
+// Fix table of contents on README.md doc
+
