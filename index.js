@@ -39,7 +39,7 @@ function writeToFile(fileName, answers) {
   // Closing </svg> tag
   svgString += "</svg>";
 
-  // Using file system module to generate svg file, takes in file name given in the promptUser function, the svg string, and a ternary error handling statement
+  // Using file system module to generate svg file, takes in file name given in the promptUser function, the svg string, and a ternary operator which handles logging any errors, or a "Generated logo.svg" message to the console  
   fs.writeFile(fileName, svgString, (err) => {
     err ? console.log(err) : console.log("Generated logo.svg");
   });
