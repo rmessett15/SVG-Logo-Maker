@@ -93,13 +93,14 @@ function promptUser() {
 // Calling promptUser function so inquirer prompts fire off when application is ran
 promptUser();
 
+
+
+
+
 // Need error handling -> how many characters user can enter into prompt 1
 //      error handling for color options -> need to enter a color or hexadecimal value
 //      error handling for uppercase lowercase?
 // Make SVG file look nicer with line breaks
-// Finish README (screenshots/video submission)
-// Video submission and add link to README (and submit as well)
-// Clean up and comment all code
 
 //   validate: function(input) {
 //     if(input > 3) {
