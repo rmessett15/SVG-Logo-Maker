@@ -7,7 +7,17 @@ Week-10 Challenge
 
  * [Description](#description)
 
+ * [Live-Screen-Recording-of-Application-Functionality](#live-screen-recording-of-application-functionality)
+
+ * [Screenshots](#screenshots)
+
+ * [Technologies-Used](#technologies-used)
+
  * [Installation](#installation)
+
+ * [Credits](#credits)
+
+ * [Features](#features)
 
  * [Usage-Information](#usage-information)
 
@@ -69,14 +79,6 @@ This project is powered by Node.js v16, utilizes inquirer v8.2.4 (node package m
 Worked with tutor Martin Goldberg to help get me started on this assignment. We pseudo-coded the general outline together and he helped me put together the unit testing portion of this assignment. 
 
 ## Features
-
-
-
-
-
-
-
-
 
 
 
