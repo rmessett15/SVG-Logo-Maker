@@ -92,29 +92,3 @@ function promptUser() {
 
 // Calling promptUser function so inquirer prompts fire off when application is ran
 promptUser();
-
-
-
-
-
-// Need error handling -> how many characters user can enter into prompt 1
-//      error handling for color options -> need to enter a color or hexadecimal value
-//      error handling for uppercase lowercase?
-// Make SVG file look nicer with line breaks
-// How do I save a SVG file as a link
-
-//   validate: function(input) {
-//     if(input > 3) {
-//     return true
-//     } else {
-//       console.log(`\n"Must enter a value of no more than 3 characters"`);
-// }
-// }
-
-// function numberOfChars(userInput) {
-//   if (userInput > 3) {
-//     return true;
-//   } else {
-//     return "Must enter a value of no more than 3 characters";
-//   }
-// }
